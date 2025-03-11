@@ -17,6 +17,7 @@
 
 ## ⌨ Git Convention
 ### Commit Convention
+ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
 - ✅ [CHORE] : 동작에 영향 없는 코드 or 변경 없는 변경사항(주석 추가 등)
 - ✨ [FEAT] : 새로운 기능 구현
 - ➕ [ADD] : Feat 이외의 부수적인 코드 추가, 라이브러리 추가, 새로운 파일 생성
@@ -27,4 +28,36 @@
 - ⏪️ [RENAME] : 파일 이름 변경시
 - ♻️ [REFACTOR] : 전면 수정
 - 🔀 [MERGE]: 다른 브랜치와 병합
-ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
+
+## 💻 팀 소개 
+<table>
+  <tbody>
+    <th align="center"> 강승민</th>
+    <th align="center"> 신동억</th>
+    <th align="center"> 임성철</th>
+    <th align="center">🐰 임하형(팀장)</th>
+    <th align="center"> 황하성</th>
+    <tr>
+      <td align="center">사진</td>
+      <td align="center">사진</td>
+      <td align="center">사진</td>
+      <td align="center">사진</td>
+      <td align="center">사진</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/SeungMin2055">SeungMin2055</td>
+      <td align="center"><a href="https://github.com/shindongeok">shindongeok</td>
+      <td align="center"><a href="https://github.com/limsc95">limsc95</td>
+      <td align="center"><a href="https://github.com/hahyeong">hahyeong</td>
+      <td align="center"><a href="https://github.com/HwangHaseong">HwangHaseong</td>
+    </tr>
+      <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">프로젝트 총괄<br>서버 및 CI/CD 하고싶어요</td>
+      <td align="center"></td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
