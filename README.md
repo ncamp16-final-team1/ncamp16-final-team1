@@ -53,7 +53,7 @@ ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
     </tr>
       <tr>
       <td align="center"></td>
-      <td align="center">게시판 빼고<br>새로운거하면 재밋을거 같아요</td>
+      <td align="center">게시판 빼고<br>새로운거하면 재밌을거 같아요</td>
       <td align="center"></td>
       <td align="center">프로젝트 총괄<br>서버 및 CI/CD 하고싶어요</td>
       <td align="center"></td>
