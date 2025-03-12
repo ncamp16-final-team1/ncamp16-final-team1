@@ -36,7 +36,7 @@ ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
     <th align="center"> 신동억</th>
     <th align="center"> 임성철</th>
     <th align="center">🐰 임하형(팀장)</th>
-    <th align="center"> 황하성</th>
+    <th align="center">🦛 황하성</th>
     <tr>
       <td align="center">사진</td>
       <td align="center">사진</td>
@@ -56,7 +56,7 @@ ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">프로젝트 총괄<br>서버 및 CI/CD 하고싶어요</td>
-      <td align="center"></td>
+      <td align="center">개미 게시판 or<br>해외 뉴스 번역<br>해보고 싶어요</td>
     </tr>
   </tbody>
 </table>
