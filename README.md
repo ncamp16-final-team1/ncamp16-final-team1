@@ -34,7 +34,7 @@ ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
   <tbody>
     <th align="center">🐢 강승민</th>
     <th align="center">🐔 신동억</th>
-    <th align="center"> 임성철</th>
+    <th align="center">🐷 임성철</th>
     <th align="center">🐰 임하형(팀장)</th>
     <th align="center">🦝 황하성</th>
     <tr>
@@ -54,7 +54,7 @@ ex) `git commit -m "[FEAT] 회원가입 기능 완료"`
     <tr>
       <td align="center">안해본 크롤링 같은 거 해보고싶어요</td>
       <td align="center">게시판 빼고<br>새로운거하면 재밌을거 같아요</td>
-      <td align="center"></td>
+      <td align="center">이전 프로젝트에서 게시판을 담당해서 게시판 제외하고 다 좋습니다. </td>
       <td align="center">프로젝트 총괄<br>서버 및 CI/CD 하고싶어요</td>
       <td align="center">AI 서비스<br>해보고 싶어요</td>
     </tr>
